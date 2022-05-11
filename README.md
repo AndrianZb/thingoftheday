@@ -10,7 +10,7 @@
 
 If you've forked the repo and set up your own thingoftheday microblog, I'd love to share it with the world! ✨ 😎
 
-[Find me on Twitter](https://twitter.com/whitep4nth3r) and say hello! 👋🏼
+[Find me on Twitter](https://twitter.com/whitep4nth3r) and say hello! 👋🏼f
 
 ## Useful links
 
